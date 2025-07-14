@@ -1,0 +1,3 @@
+#!/bin/bash
+
+echo 'setwd("/home/jovyan/k853j_src/ESS 2016")' >> /home/jovyan/.Rprofile
